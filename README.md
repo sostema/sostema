@@ -1,11 +1,11 @@
 <h1 align="center">👋</h1>
-<h3 align="center">Creative outcast with love to create something new and unique!</h3>
+<h3 align="center">Creative outcast who loves to create something new and unique!</h3>
 
 - ✨ Interested in various topics like **DS/ML, backend engineering and game development**
 
 - 👨‍🏫 Would love to find a **mentor in DS/ML related fields**
 
-- 🌱 I’m currently learning **Go, Dart, Rust and TS** (mainly for little pet projects)
+- 🌱 I’m currently learning **Go and Rust** (mainly for little pet projects)
 
 - 👯 I’m looking to collaborate on **creating boilerplate repositories for faster and better hackathon experience**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Languages I happen to know: </h3>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <h3 align="left">Frameworks and libraries: </h3>
 
@@ -37,6 +37,8 @@
 
 <hr>
 
-<h3 align="left">Some Github related information: </h3>
+<h3 align="left">Some Github related information: </h3> 
+
+![](https://komarev.com/ghpvc/?username=sostema&color=009B77&style=for-the-badge)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sostema&count_private=true&show_icons=true&theme=radical&locale=en" alt="sostema" />
