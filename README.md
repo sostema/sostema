@@ -5,7 +5,7 @@
 
 - 👨‍🏫 Would love to find a **mentor in DS/ML related fields**
 
-- 🌱 I’m currently learning **Go and Rust** (mainly for little pet projects)
+- 🌱 I’m currently learning **Swift, Go and Rust** (mainly for little pet projects)
 
 - 👯 I’m looking to collaborate on **creating boilerplate repositories for faster and better hackathon experience**
 
