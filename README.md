@@ -1,5 +1,4 @@
-<h1 align="center">👋</h1>
-<h3 align="center">Creative outcast who loves to create something new and unique!</h3>
+Data Scientist and aspiring Software Engineer
 
 - ✨ Interested in various topics like **DS/ML, backend engineering and game development**
 
