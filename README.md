@@ -1,18 +1,6 @@
 # Data Scientist and aspiring Software Engineer
 
-## Some info about me
-
-- ✨ Interested in various topics like **DS/ML, backend engineering and game development**
-
-- 👨‍🏫 Would love to find a **mentor in DS/ML related fields**
-
-- 🌱 I’m currently learning **Rust** (mainly for little pet projects)
-
-- 👯 I’m looking to collaborate on **creating boilerplate repositories for faster and better hackathon experience**
-
-- 🤝 I’m looking for help with **writing academic papers on NLP-related topics**
-
-- 💬 Ask me about **machine learning pipelines on PyTorch (Lightning)**
+- ✨ Interested in various topics like **DS/ML, software engineering and game development**
 
 ### Languages I happen to know
 
@@ -24,7 +12,7 @@
 
 #### Data Science related
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) (Lightning)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
